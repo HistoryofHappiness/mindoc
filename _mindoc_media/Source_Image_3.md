@@ -1,9 +1,9 @@
 ---
 page: source
-title: Image_of-Dogs-Source
+title: BookCover
 media_type: image
 
-_title: Dogs
+_title: The Yellow Book
 description: Main page photo
 creator: Unknown
 _date: Unknown
@@ -16,7 +16,7 @@ format:
 credit_(IPTC):
 date_created_(IPTC):
 
-_path: /assets/img/doggo.jpeg 
+_path: /assets/img/bookcover.jpeg 
 order: '02'
 layout: image_description
 ---
